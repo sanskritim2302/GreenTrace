@@ -43,5 +43,4 @@ GreenTrace aims to revolutionize the way consumers interact with eco-friendly an
 
 [Visit GreenTrace](https://green-trace-kappa.vercel.app/)
 
----
 
